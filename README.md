@@ -67,9 +67,18 @@ Currently in my 2nd year (4th Semester) of B.Tech in Computer Science, I special
 
 ---
 
-### 📫 Let's Connect!
+### 🔗 Related
 
 <p align="left">
+  <a href="https://codeforces.com/profile/manishsamal1411" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/iBlOEOtVZu/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/manish_samal" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B3520?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
   <a href="mailto:manishsamal1411@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
