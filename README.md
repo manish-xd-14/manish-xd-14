@@ -54,12 +54,15 @@ Currently in my 2nd year (4th Semester) of B.Tech in Computer Science, I special
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish-xd-14&show_icons=true&theme=radical&hide_border=true" alt="Manish's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish-xd-14&theme=radical&hide_border=true" alt="Manish's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-xd-14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=manish-xd-14&color=1DB954&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Things-009688?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." ~John Johnson</i>
 </p>
 
 ---
