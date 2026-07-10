@@ -38,12 +38,6 @@ Currently in my 2nd year (4th Semester) of B.Tech in Computer Science, I special
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🎵 Spotify AI Library Manager</h3>
-      <p>An AI-powered web platform that solves the "Liked Songs dumping ground" problem. Users sync their Spotify library and interact with it via an <b>LLM Chatbot</b> to create, filter, and edit playlists using natural language.</p>
-      <p><b>Tech:</b> FastAPI, Spotipy, Groq (Llama 3), PostgreSQL, Tailwind CSS</p>
-      <p><i>(Currently in active development)</i></p>
-    </td>
-    <td valign="top" width="50%">
       <h3>🔗 AquaChain (SIH 2024)</h3>
       <p>Built a RESTful backend for a blockchain-powered MRV system tracking blue carbon restoration across sites in India. Designed role-based API routing and optimized image processing pipelines for memory-constrained environments.</p>
       <p><b>Tech:</b> Python, FastAPI, PostgreSQL, SQLAlchemy, Cloudinary</p>
@@ -54,11 +48,6 @@ Currently in my 2nd year (4th Semester) of B.Tech in Computer Science, I special
       <h3>🏫 Smart Resource Management System</h3>
       <p>A community-driven platform enabling college students to list and request shared items within their campus. Architected a normalized 5-table schema and implemented JWT-based authentication with strict RBAC middleware.</p>
       <p><b>Tech:</b> Node.js, Express.js, TiDB Cloud (MySQL), JWT</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📊 Data Analytics APIs</h3>
-      <p>Various backend utilities leveraging Python's data ecosystem. Built RESTful endpoints that ingest large CSV datasets, process them using Pandas/NumPy, and serve analytical insights via optimized query parameters.</p>
-      <p><b>Tech:</b> Python, Pandas, NumPy, SQLite, FastAPI</p>
     </td>
   </tr>
 </table>
