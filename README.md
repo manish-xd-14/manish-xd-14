@@ -3,7 +3,6 @@
 **I am a Backend Engineering enthusiast and Competitive Programmer.**  
 Currently in my 3rd year (5th Semester) of B.Tech in Computer Science, I specialize in building robust Python backends, designing RESTful APIs, and solving complex algorithmic challenges. 
 
-🚀 **Currently building:** An AI-powered Spotify Library Manager using FastAPI, Groq (LLM Tool-Use), and PostgreSQL.  
 🎯 **Focus:** Backend Development, System Design, Data Structures & Algorithms.
 
 ---
